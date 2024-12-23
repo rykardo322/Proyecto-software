@@ -4,7 +4,7 @@
 ---
 
 ## 🏷️ **Propósito del Proyecto**  
-Este proyecto tiene como objetivo monitorear y registrar datos ambientales como **temperatura** y **humedad** en tiempo real. Utilizando sensores de última generación integrados con sistemas basados en **IoT (Internet de las Cosas)**, el proyecto proporciona una plataforma accesible y escalable para la gestión de datos en diferentes entornos.  
+Este proyecto está diseñado para ofrecer un monitoreo eficiente y preciso de datos ambientales como temperatura y humedad en tiempo real. Utilizando sensores de última generación y tecnología IoT (Internet de las Cosas), proporciona una solución personalizada, accesible y escalable que facilita la gestión y optimización de recursos en diversos entornos, mejorando la toma de decisiones y reduciendo costos operativos.
 
 ---
 ## 👥 **Equipo de Desarrollo**  
